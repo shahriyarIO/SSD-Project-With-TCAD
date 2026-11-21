@@ -68,9 +68,7 @@ Quantum confinement and tunnelling are not modelled, so absolute values should b
 ## Repository Structure
 
 ```
-├── paper/          # Research article (PDF)
-├── decks/          # ATLAS input decks (.in) for 14, 10 and 7 nm
-├── data/           # Extracted ID-VG data and results
+├── report_paper/          # Research article (PDF)           
 └── README.md
 ```
 > Adjust the folder names to match your actual repository.
